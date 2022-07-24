@@ -7,11 +7,7 @@ A little python tool to perform Local file inclusion.
 
  # Installation Steps 
   
- ## Git Clone 
-  
-        sudo git clone https://github.com/MohammedHadhil/File-Finder.git 
-  
- ## Change permission 
+ ## Step:1 Change permission 
   
   
         sudo chmod +x *.py 
@@ -20,7 +16,7 @@ A little python tool to perform Local file inclusion.
   
         sudo chmod +x main.py 
   
- ## Installing Requirements 
+ ## Step:2 Installing Requirements 
   
   
         sudo pip install requirements.txt 
@@ -29,7 +25,7 @@ A little python tool to perform Local file inclusion.
   
         pip install --upgrade pyfiglet 
   
- ## Open 
+ ## Step:3 Open 
   
   
         ./main py  
@@ -39,6 +35,4 @@ A little python tool to perform Local file inclusion.
         python main.py 
   
   
- # Thank you 
-  
- Use this tool only for education purpose or ethical manner testing own applications. No illegal action taken by this tool not under my responsiblity. *I hereby disclaim the responsibility of illegal actions.*
+ # Thanks 
