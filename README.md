@@ -19,7 +19,7 @@ A little python tool to perform Local file inclusion.
  ## Step:2 Installing Requirements 
   
   
-        sudo pip install requirements.txt 
+        sudo pip install -r requirements.txt 
          
  If any error comes on module with pyfiglet just skip that step by click on enter 
   
