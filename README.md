@@ -5,7 +5,7 @@ This tool made for "Local File Inclusion".
 A little python tool to perform Local file inclusion.
   
 
- **# Installation Steps **
+ # Installation Steps
   
  ## Step:1 Change permission 
   
@@ -21,7 +21,7 @@ A little python tool to perform Local file inclusion.
   
         sudo pip install requirements.txt 
          
- if any module error with pyfiglet occurs enter this too otherwise leave this step 
+ If any error comes on module with pyfiglet just skip that step by click on enter 
   
         pip install --upgrade pyfiglet 
   
@@ -35,4 +35,3 @@ A little python tool to perform Local file inclusion.
         python main.py 
   
   
-** # Thanks **
