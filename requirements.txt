@@ -1,0 +1,6 @@
+1. requests
+2. time
+3. pyfiglet
+4. datetime
+5. os
+6. termcolor
