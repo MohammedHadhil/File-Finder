@@ -5,7 +5,7 @@ This tool made for "Local File Inclusion".
 A little python tool to perform Local file inclusion.
   
 
- # Installation Steps 
+ **# Installation Steps **
   
  ## Step:1 Change permission 
   
@@ -35,4 +35,4 @@ A little python tool to perform Local file inclusion.
         python main.py 
   
   
- # Thanks 
+** # Thanks **
